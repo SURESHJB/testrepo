@@ -1,0 +1,2 @@
+THis is line1 of file6
+this is second line after removing from gitignore
